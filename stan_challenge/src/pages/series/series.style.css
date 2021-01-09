@@ -1,0 +1,11 @@
+.series{
+    width: 85vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.serie{
+    display: flex;
+    flex-direction: column;
+}
